@@ -3,30 +3,32 @@
 ## Latest Release (APK v3042)
 
 #### New Features
-- Feature 1: Description of the first feature in the release.
-- Feature 2: Description of the second feature in the release.
-- Feature 3: Description of the third feature in the release.
-
+- Feature 1: Location Permission Requester if the location permission is being disabled. Location permission enable option if the location is being turned off.
+  
 #### Enhancements
-- Improvement 1: Description of the first enhancement.
-- Improvement 2: Description of the second enhancement.
-- Improvement 3: Description of the third enhancement.
+- Improvement 1: Detailed Information Message for user while switching Environment
+- Improvement 2: Once delivery workflow is completed, it should not be displayed under services.
+- Improvement 3: Critical Abnormal values should flag RED (Blood Pressure Systolic 125 - 127 should flag Yellow. 128 and above should flag). Diastolic  83 - 87 flag Yellow. Above 88 should flag red.
+- Improvement 4: UI improvement - After pressing submit button, submit button should disable or add spinner
 
 #### Bug Fixes
-- Bug Fix 1: Description of the fix for the first bug.
-- Bug Fix 2: Description of the fix for the second bug.
-- Bug Fix 3: Description of the fix for the third bug.
+- Bug Fix 1: Schedule Appointment Crash.
+- Steps to Reproduce: Select Baby Patient -> Choose Service -> Click on Schedule Appointment.
+- Bug Fix 2: Fixed the issue login under low network. If user tries to login under low network there used to be a toast message "Please Try Again" shown and the user will be taken by to login page.
+- Bug Fix 3: Duplicate patient list not proper. List is empty when opened but on search the items are shown.
+- Bug Fix 4: App crashes when taking RDT results via vitals service.
+- Bug Fix 5: "Choose Service" option remains visible after updating deceased date for out patient service.
+- Bug Fix 6: Partial Patient Card download issue on another device.
+- Bug Fix 7: Unable to submit service even after updating the required fields.
+- Steps to Reproduce: General Consulation Service Click -> Select English -> Update Patient visiting details -> Update outcome of the consultation -> Click on review and submit -> Unable to submit.
 
 ## FAQs
 
 <details>
-<summary>How do I perform a specific action?</summary>
-  Describe the steps to perform the specific action.
-</details>
-<br>
-<details>
 <summary>What are the system requirements for the app?</summary>
-  Provide information about the minimum system requirements.
+  Minimum System Requirements:
+  - Android Device
+  - Android level 8(Oreo)
 </details>
 <br>
 <details>
