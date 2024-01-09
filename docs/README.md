@@ -39,6 +39,7 @@
   <br>
   2. Click on the "Check for Update" option.
   3. Teset
+  4. Fourth Point
 </details>
 <br>
 
