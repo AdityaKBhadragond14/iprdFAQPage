@@ -34,7 +34,9 @@
 <details>
 <summary>How to update the app to the latest version?</summary>
   To update to the latest version please follow these steps:
+  <br>
   1. In the Home Dashboard Screen click on the drawer icon on top left corner
+  <br>
   2. Click on the "Check for Update" option.
 </details>
 <br>
