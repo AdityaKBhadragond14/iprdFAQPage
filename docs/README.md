@@ -33,37 +33,9 @@
 <br>
 <details>
 <summary>How to update the app to the latest version?</summary>
-  Explain the steps for updating the app to the latest version.
-</details>
-<br>
-<details>
-<summary>How do I perform a specific action?</summary>
-  Describe the steps to perform the specific action.
-</details>
-<br>
-<details>
-<summary>What are the system requirements for the app?</summary>
-  Provide information about the minimum system requirements.
-</details>
-<br>
-<details>
-<summary>How to update the app to the latest version?</summary>
-  Explain the steps for updating the app to the latest version.
-</details>
-<br>
-<details>
-<summary>How do I perform a specific action?</summary>
-  Describe the steps to perform the specific action.
-</details>
-<br>
-<details>
-<summary>What are the system requirements for the app?</summary>
-  Provide information about the minimum system requirements.
-</details>
-<br>
-<details>
-<summary>How to update the app to the latest version?</summary>
-  Explain the steps for updating the app to the latest version.
+  To update to the latest version please follow these steps:
+  1. In the Home Dashboard Screen click on the drawer icon on top left corner
+  2. Click on the "Check for Update" option.
 </details>
 <br>
 
