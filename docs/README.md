@@ -38,6 +38,7 @@
   1. In the Home Dashboard Screen click on the drawer icon on top left corner
   <br>
   2. Click on the "Check for Update" option.
+  3. Teset
 </details>
 <br>
 
