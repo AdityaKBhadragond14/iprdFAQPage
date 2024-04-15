@@ -1,4 +1,4 @@
-# IMPACT HEALTH
+# IMPACT HEALTH ![Impact Health Logo](https://github.com/AdityaKBhadragond14/iprdFAQPage/blob/main/impact_health.png)
 
 ## Latest Release (APK v3042)
 
